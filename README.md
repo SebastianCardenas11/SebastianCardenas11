@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 Acerca de mi:<br><br>Perfil de GitHub - Juan Cardenas<br><br>!Hola¡ Soy Juan Cardenas, aprendiz del Técnico en Programació de Software<br>ficha 2875029<br><br>Mi objetivo es aprender y compartir mis copnocimeintos y experiencias para ayudar<br>a otros a aprender y crecer en el mundo de la programación.
 
 
